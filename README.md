@@ -7,7 +7,7 @@
 ## Contextualização
 A Eletronic House é um comércio eletrônico (e-commerce) do ramo de informática que atende demandas tanto residenciais quanto de escritórios.
 Para melhorar a experiência de seus clientes presentes em diversos países da Europa e América do norte, o diretor de produtos global, pediu ao head de design que desenvolvesse uma 
-ferramenta de preenchimento automático das informações referentes ao cartão de crédito. Após vários meses de desenvolvimento, foi entregue uma solução onde 90% das informações do formulário eram preenchidas automaticamente.
+ferramenta de preenchimento automático das informações cliente. Após vários meses de desenvolvimento, foi entregue uma solução onde 90% das informações do formulário eram preenchidas automaticamente.
 Durante alguns meses dois grupos de clientes foram expostos a duas páginas diferentes (uma que contava com o novo sistema de preenchimento e a outra não). Todos esses dados foram salvos em um banco de dados e posdem ser acessados por todos do 
 time da EH.
 
