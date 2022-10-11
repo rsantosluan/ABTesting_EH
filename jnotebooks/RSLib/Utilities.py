@@ -42,7 +42,7 @@ class ab_testing():
             power = power
         )
         real_size = len( data_raw.loc[data_raw.country == pais] )
-        return np.ceil( sample_size ).astype( int ), real_size
+        return np.ceil( sample_size ).astype( int ), real_size       
 
 class plot_grafico():
     def plot_values_vbar( ax ):
