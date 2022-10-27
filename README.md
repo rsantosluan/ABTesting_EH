@@ -17,5 +17,5 @@ Tendo em mãos todas essas informações, é necessário concluir qual a forma d
 ## Artefato de entrega
 - Documento contendo o resultado de qual modelo perfoma melhor bem como, resumidamente, o embasamento estatístico ao qual se basearam os testes.
 
-### Conclusão
+## Conclusão
 As amostras obtidas se mostram inconclusivas mesmo quando analisadas com maior nível de granularidade. Os resultados dos dois grupos, são extremamente próximos e por esse motivo, necessita-se de um maior conjunto de dados de alguns países para validar ou não a eficácia do modelo.
